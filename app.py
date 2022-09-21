@@ -450,7 +450,7 @@ ax.set_xlabel('x')
 ax.set_ylabel('Frequency')
 plt.show()
 
-## Pin Charts 
+## Pie Charts 
 x, y, z = 128, 256, 1024
 
 fig, ax = plt.subplots()
